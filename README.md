@@ -53,7 +53,6 @@ ai_agent/
 - .env
 - requirements.txt
 - tools/
-  - init.py
   - bitcoin.py
   - currency.py
 - README.md
