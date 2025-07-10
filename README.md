@@ -48,15 +48,15 @@ python agent.py
 ## Struktura projektu
 
 ai_agent/
-├── agent.py
-├── config.py
-├── .env
-├── requirements.txt
-├── tools/
-│ ├── init.py
-│ ├── bitcoin.py
-│ └── currency.py
-└── README.md
+- agent.py
+- config.py
+- .env
+- requirements.txt
+- tools/
+ - init.py
+ - bitcoin.py
+ - currency.py
+- README.md
 
 ## Poznámky
 
