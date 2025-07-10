@@ -49,7 +49,6 @@ python agent.py
 
 ai_agent/
 - agent.py
-- config.py
 - .env
 - requirements.txt
 - tools/
